@@ -1,7 +1,9 @@
 ---
-layout: post
-title: What's Jekyll?
+layout: page
+title: Testing testing, one two three!
 ---
+
+<strong>This is a test</strong> to see if the `<strong>` for bolding works, and to see if the `layout: page` works as well.
 
 [Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 

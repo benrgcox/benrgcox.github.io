@@ -1,7 +1,7 @@
 # Setup
-title:               Ben Cox
-tagline:             'My Portfolio'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               A portfolio of Ben Cox
+tagline:             ''
+description:         'A portfolio of some of <a href="https://www.linkedin.com/in/benrgcox/" target="_blank">Ben Cox\'s</a> projects and work.'
 url:                 https://benrgcox.github.io
 baseurl:             ''
 paginate:            5

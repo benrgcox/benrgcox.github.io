@@ -1,7 +1,7 @@
 # Setup
 title:               A portfolio of Ben Cox
-tagline:             ' '
-description:         'A portfolio of some of <a href="https://www.linkedin.com/in/benrgcox/" target="_blank">Ben Cox\'s</a> projects and work.'
+tagline:             ''
+description:         'A portfolio of some of projects and work by <a href="https://www.linkedin.com/in/benrgcox/" target="_blank">Ben Cox</a>.'
 url:                 https://benrgcox.github.io
 baseurl:             ''
 paginate:            5

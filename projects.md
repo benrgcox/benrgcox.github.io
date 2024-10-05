@@ -12,6 +12,7 @@ title: Projects
 * MERITS Program CubeSat Material Testing & Analysis
 * Boston Climate Action Network BERDO Compliance Analysis
 * "Woke Windows" Update: Working with Boston Police Forfeiture Data
+  * Worked on updating the [Woke Windows Project](https://www.wokewindows.org/)'s data.
 * Carbon Footprint Tracker UI Project
 * Covid-19 Policy Analysis in Azure
 * L.L.Bean Kubernetes & Cloud Billing Costs Dashboard

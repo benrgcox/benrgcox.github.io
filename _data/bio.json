@@ -1,44 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Ben Cox",
+    "label": "Recent Graduate",
+    "picture": "https://github.com/benrgcox.png",
+    "email": "bencox012@gmail.com",
+    "phone": "(207)329-8800",
+    "website": "https://benrgcox.github.io",
+    "summary": "I am a recent 2024 graduate from Boston University with a B.S. in Data Science. I love algorithms, data systems, space sciences, and always want to learn more!",
+    "location": { "address": "", "postalCode": "", "city": "Cambridge", "countryCode": "USA", "region": "Massachusetts" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "benrgcox", "url": "http://github.com/benrgcox" },
+      { "network": "linkedin", "username": "benrgcox", "url": "http://www.linkedin.com/in/benrgcox/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data Science" },
+    { "name": "Neural Networks" },
+    { "name": "Robotics Systems" },
+    { "name": "Algorithms & ML" },
+    { "name": "Space Sciences" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "R", "SQL", "Rust"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Google Suite", "Ubuntu" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Boston University, Boston, MA",
+      "area": "Data Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2020",
+      "endDate": "2024",
       "courses": [
       ]
     }

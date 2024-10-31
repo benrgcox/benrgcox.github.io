@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/llbean/llbean-logo.png
+image: img/llbean/llbean-logo.jpg
 title: "Kubernetes Billing Analysis & Visualization for L.L.Bean"
 date: 2023
 published: true

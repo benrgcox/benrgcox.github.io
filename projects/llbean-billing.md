@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/bcan/bcan-logo.png
+image: img/llbean/llbean-logo.png
 title: "Kubernetes Billing Analysis & Visualization for L.L.Bean"
-date: 2024
+date: 2023
 published: true
 labels:
   - Google Cloud

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bcan/bcan-logo.png
+image: img/covid19/covid19-logo.jpg
 title: "Covid-19 International Policy Analysis"
 date: 2023
 published: true

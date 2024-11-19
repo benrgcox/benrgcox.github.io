@@ -43,35 +43,76 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "BU Spark! with the Boston Climate Action Network",
+      "position": "Property Analyst",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Analyzed climate emission data from Boston buildings to determine contributing factors to energy usage and compliance with Boston climate policy regulation.",
+        "Worked with project members to provide overviews and detailed visualizations of emission factors, neighborhoods for improvement, missing data, and trends in data.",
+        "Reported conclusions and group presentation to BCAN staff project coordinators for future use in data collection and project focus."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Boston University Faculty of Computing & Data Sciences",
+      "position": "Data Science Teaching Assistant",
+      "website": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Selected to work with Professor of Faculty of Computing and Data Sciences to grade and teach distributions and statistical reasoning.",
+        "Created and taught presentations with fellow TA to enhance lectures during discussion classes.",
+        "Supported individual learning with one-on-one aid and tutoring."
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "",
+      "highlights": [
+        "PASTE",
+        "PASTE",
+        "PASTE"
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "",
+      "highlights": [
+        "PASTE",
+        "PASTE",
+        "PASTE"
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "",
+      "highlights": [
+        "PASTE",
+        "PASTE",
+        "PASTE"
       ]
     }
   ],
-  "volunteer": [
+  "experiences": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Hmmmmmmmmm",
+      "website": "Really?",
+      "position": "Interesting...",
       "startDate": "2016-01-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
@@ -79,33 +120,26 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Boston University Dean's List",
+      "date": "Spring 2022-Spring 2024",
+      "awarder": "Boston University",
+      "summary": "Distinction for achieving a GPA above a 3.5 out of courses taken during each semester."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "National Honors Society Member",
+      "date": "2020",
+      "awarder": "National Honors Society",
+      "summary": "Scholarship and designation awarded to graudating high school seniors who complete challenging courseloads with a minimum overall GPA of 93, volunteer service to both school and community, and must \"demonstrate leadership and oustanding character\"."
+    },
+    {
+      "title": "STEM Endorsement",
+      "date": "2020",
+      "awarder": "Portland High School",
+      "summary": "Designation for high school seniors who graduate with a specific focus or concentration within STEM fields."
     }
   ],
   "references": [

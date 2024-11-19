@@ -43,12 +43,12 @@
   ],
   "work": [
     {
-      "company": "BU Spark! with the Boston Climate Action Network",
+      "company": "",
       "position": "Property Analyst",
       "website": "",
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
-      "summary": "",
+      "summary": "BU Spark! with the Boston Climate Action Network",
       "highlights": [
         "Analyzed climate emission data from Boston buildings to determine contributing factors to energy usage and compliance with Boston climate policy regulation.",
         "Worked with project members to provide overviews and detailed visualizations of emission factors, neighborhoods for improvement, missing data, and trends in data.",
@@ -56,12 +56,12 @@
       ]
     },
     {
-      "company": "Boston University Faculty of Computing & Data Sciences",
+      "company": "",
       "position": "Data Science Teaching Assistant",
       "website": "",
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
-      "summary": "",
+      "summary": "Boston University Faculty of Computing & Data Sciences",
       "highlights": [
         "Selected to work with Professor of Faculty of Computing and Data Sciences to grade and teach distributions and statistical reasoning.",
         "Created and taught presentations with fellow TA to enhance lectures during discussion classes.",
@@ -70,41 +70,43 @@
     },
     {
       "company": "",
-      "position": "",
+      "position": "L.L.Bean IS Platform Services Intern",
       "website": "",
-      "startDate": "2024-01-01",
-      "endDate": "2024-05-01",
-      "summary": "",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Summer Internship",
       "highlights": [
-        "PASTE",
-        "PASTE",
-        "PASTE"
+        "Created a Cloud Kubernetes billing visualization tool in Google Cloud using SQL and Python queries to give greater cost transparency and automate reporting to project managers.",
+        "Interviewed software vendors for potential involvement in project.",
+        "Collaborated with team of Cloud architects and partners to deliberate, update, expand, and troubleshoot on systems within Google Cloud.",
+        "Learned the inner workings of a corporate business context, from project brainstorming to development, application, review, and final production."
       ]
     },
     {
       "company": "",
-      "position": "",
+      "position": "Software Systems Team Lead & Member",
       "website": "",
-      "startDate": "2024-01-01",
+      "startDate": "2022-01-01",
       "endDate": "2024-05-01",
-      "summary": "",
+      "summary": "Boston University Mars Rover Club",
       "highlights": [
-        "PASTE",
-        "PASTE",
-        "PASTE"
+        "Planned robot path planning and obstacle avoidance navigation systems to allow the rover to pass through checkpoints as part of the University Rover Challenge.",
+        "Designed algorithm code using data from depth-sensing camera to use in obstacle detection",
+        "Coordinated with team members to facilitate effective implementation of sub-team projects."
       ]
     },
     {
       "company": "",
-      "position": "",
+      "position": "Research and Data Collection Intern",
       "website": "",
-      "startDate": "2024-01-01",
-      "endDate": "2024-05-01",
-      "summary": "",
+      "startDate": "2019-05-01",
+      "endDate": "2019-08-01",
+      "summary": "Maine Research Internships for Teachers and Students (MERITS)",
       "highlights": [
-        "PASTE",
-        "PASTE",
-        "PASTE"
+        "Collected data about outgassing of potential plastics for CubeSat satellite construction for potential use in advancing Maine educational space sciences.",
+        "Coordinated experiments with coworker at the University of Southern Maine physics lab.",
+        "Organized and analyzed material data to determine ideal plastic for CubeSat experiments in lower Earth orbit.",
+        "Presented findings and conclusions to 50+ professors, faculty, fellow researchers, and community members at an end-of-summer symposium."
       ]
     }
   ],

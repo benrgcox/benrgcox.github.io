@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/merits/cubesat-image-logo.png
+image: img/merits/cubesat-image-logo.jpg
 title: "MERITS MSGC Program: 3D-Printed Plastic Outgassing Research"
 date: 2019
 published: true
